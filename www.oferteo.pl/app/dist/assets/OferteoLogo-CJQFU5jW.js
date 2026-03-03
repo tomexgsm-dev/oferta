@@ -1,0 +1,2 @@
+import{_ as e,a as o,o as t}from"./notificationCounters-D-GgXq0f.js";const r={name:"OferteoLogo"},_={"data-component":"OferteoLogo.vue",class:"svg svg-logotype-oferteo"};function n(c,a,f,l,p,d){return t(),o("div",_)}const s=e(r,[["render",n]]),i=Object.freeze(Object.defineProperty({__proto__:null,default:s},Symbol.toStringTag,{value:"Module"}));export{i as _};
+//# sourceMappingURL=OferteoLogo-CJQFU5jW.js.map
